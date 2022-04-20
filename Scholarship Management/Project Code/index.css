@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+* {
+	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    font-family: 'poppins', sans-serif;
+}
+.container{
+	margin-top: 40px;
+	margin-left: 90px;
+	width: 100%;
+}
+#card_details{
+	box-shadow: 0px 8px 8px black;
+	display: inline-block;
+	margin-left: 20px;
+}
+#table_controller{
+	margin-top: 80px;
+	border-left-width: 40px;
+	border-right-style: 40px;
+
+}
+
+/* ******************** Form Design ********************** */
+form{
+	margin-left: 250px;
+	box-shadow: 0px 10px 10px black;
+	width: 900px;
+	height: auto;
+	padding: 60px;
+}
+label{
+	font-family: sans-serif, Time New Roman;
+	font-style: bold;
+	color: black;
+	margin-left: 20px;
+
+}
+.form-control{
+	width: 600px;
+	height: 60px;
+	padding: 10px;
+	background-color: white;
+	color: black;
+}
+
+#img_controller{
+	height: 300px;
+	width: 100%;
+	margin: 0px;
+	margin-top: 0px;
+}
+.text_overlay{
+	font-family: sans-serif!important;
+	font-style: bolder;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 40px;
+	color: black;
+	box-shadow: 5px 5px 5px white;
+	overflow: ;
+}
+
+/* ****************** Search Bar Code ******************* */
+
+.height {
+    height: 10vh;
+}
+
+.form {
+    position: relative;
+}
+
+.form .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9ca3af;
+}
+
+.form span {
+    position: relative;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db;
+}
+
+.left-pan {
+    padding-left: 7px;
+}
+
+.left-pan i {
+    padding-left: 10px;
+}
+
+.form-input {
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus {
+    box-shadow: none;
+    border: none;
+}
+
+/* ********************** Table Design ******************* */
+
