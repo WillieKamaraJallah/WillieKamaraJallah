@@ -1,0 +1,94 @@
+/* miniprogram/pages/Alex/report.wxss */
+.profile_view{
+  height: 400rpx;
+  width: 800rpx;
+  background-color: black;
+  border-radius: 25rpx;
+}
+.background_pic{
+  height: 400rpx;
+  width: 800rpx;
+  border-radius: 15rpx;
+}
+.profile_pic{
+  height: 190rpx;
+  width: 190rpx;
+  background-color: transparent;
+  border-radius: 50%;
+  margin-left: 30rpx;
+  margin-top: -120rpx;
+}
+.user_pic{
+  height: 190rpx;
+  width: 190rpx;
+  border-radius: 50%;
+  margin-left: 2rpx;
+  margin-top: -5rpx;
+}
+.user_name{
+  margin-left: 220rpx;
+  font-size: larger;
+  font-weight: bold;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: -65rpx;
+}
+.sch_name{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: small;
+  align-items: center;
+  color: black;
+  margin-left: 150rpx;
+}
+.sch_class{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: small;
+  align-items: center;
+  color: black;
+  margin-left: 250rpx;
+}
+.status{
+  color: green;
+  margin-left: 250rpx;
+  font-weight: bolder;
+  margin-top: 40rpx;
+}
+.about_stu{
+  height: fit-content;
+  width: auto;
+  margin-left: 30rpx;
+  margin-top: 40rpx;
+}
+.about_header{
+  font-weight: bold;
+  margin-left: 200rpx;
+  color: black;
+  font-size: small;
+}
+.table_controller{
+  margin-top: 70rpx;
+  height: 700rpx;
+  width: 600rpx;
+  margin-left: 30rpx;
+}
+th{
+  font-size: 20rpx;
+  padding: 20rpx;
+  font-style: normal;
+}
+td{
+  font-size: 20rpx;
+  font-style: normal;
+  margin-left: 20rpx;
+}
+button{
+  color: white;
+  background-color: blue;
+  border-radius: 20rpx;
+  margin-top: 40rpx;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

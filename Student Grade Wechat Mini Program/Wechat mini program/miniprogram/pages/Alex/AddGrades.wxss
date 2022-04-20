@@ -1,0 +1,99 @@
+/* miniprogram/pages/Alex/AddGrades.wxss */
+/* miniprogram/pages/James/booking.wxss */
+.background{
+  height: fit-content;
+  width: auto;
+  background-color: lightgray;
+  margin-top: -20rpx;
+}
+.order_title{
+  font-size: large;
+  color: black;
+  margin-left: 250rpx;
+  margin-top: 20rpx;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.med_img{
+  height: 370rpx;
+  width: 600rpx;
+  background-color: transparent;
+  margin-top: 50rpx;
+  margin-left: 68rpx;
+  border-radius: 30rpx;
+}
+image{
+  height: 370rpx;
+  width: 600rpx;
+  margin-top: -35rpx;
+  margin-left: 10rpx;
+  border-radius: 30rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.booking_form{
+  margin-top: 30rpx;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium; 
+  height: 1000rpx;
+  width: 600rpx;
+  background-color: lightslategray;
+  margin-left: 70rpx;
+  border-radius: 20rpx;
+  border-style: solid white;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.form_title{
+  font-size: large;
+  color: white;
+  margin-left: 110rpx;
+  margin-top: 20rpx;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+  font-size: small;
+  font-weight: bold;
+  color: white;
+  margin-left: 60rpx;
+}
+input{
+  margin-left: 40rpx;
+  background-color: white;
+  border-top: 0rpx;
+   border-radius: 30rpx;
+   color:black;
+   width: 550rpx;
+   height: 70rpx;
+   margin: 10rpx;
+   margin-top: 10rpx;
+   padding: 5rpx;
+   padding-left: 20rpx;
+   font-size: small;
+}
+textarea{
+  background-color: white;
+  color: black;
+  height: 300rpx;
+  width: 550rpx;
+  border-radius: 30rpx;
+  margin-left: 20rpx;
+  padding-left: 15rpx;
+}
+.act_btn{
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  margin-top: 40rpx;
+  margin-left: 230rpx;
+  margin: 60rpx;
+  height: 100rpx;
+  width: 220rpx;
+  border-radius: 30rpx;
+  padding: 10rpx;
+  font-size: large;
+  font-weight: bolder;
+  padding-top: 30rpx;
+  padding-right: 10rpx;
+  padding-left: 10rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}

@@ -1,0 +1,30 @@
+<!--miniprogram/pages/Alex/AddTeacher.wxml-->
+<!--miniprogram/pages/Alex/AddStudent.wxml-->
+<view class="background">
+
+<view style="height: 20rpx;"></view>
+  <p class="order_title">TEACHER RECORD</p>
+  <view class="med_img"> 
+    <image src="../Alex/images/schools.jpg"></image>
+  </view>
+  <view style="height: 10rpx;"></view>
+    <view class="booking_form">
+ <p class="form_title">Enter Instructor Details</p>
+   <view style="height: 20rpx;"></view>
+    <form action="#" name="booking">
+      <p>Teacher Name</p>
+        <input placeholder="Enter Teacher Name" type="text" name="t_name" id="t_name"></input>
+      <p>Date of Birth</p>
+        <input placeholder="Enter Insturctor ID" type="text" name="teacher_ID" id="teacher_ID"></input>
+      <p>Teaching Class</p>
+        <input placeholder="10th Grade" type="text" name="teaching_grade" id="teaching_grade"></input>
+      <p>Add Comment</p>
+        <textarea placeholder="Type Here"></textarea>
+    </form>
+  </view>
+  <view class="act_btn" bindtap="nextpage">Cancel</view>
+  <view class="act_btn">Comfirm</view>
+</view>
+
+
+

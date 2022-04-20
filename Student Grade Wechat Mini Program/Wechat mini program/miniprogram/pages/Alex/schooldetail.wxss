@@ -1,0 +1,76 @@
+/* miniprogram/pages/Alex/schooldetail.wxss */
+.page_title{
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: normal;
+  margin-top: 20rpx;
+  margin-left: 140rpx;
+  color: black;
+}
+.img_banner{
+  margin-top: 20rpx;
+  height: 400rpx;
+  width: 800rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.schl_list{
+  height: 200rpx;
+  width: 680rpx;
+  background-color: lightgray;
+  display: inline-block;
+  border-radius: 20rpx;
+  border-style: solid;
+  border-color: lightgray;
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.sch_name{
+  font-style: large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  margin-left: 60rpx;
+}
+.sch_number{
+  font-style: small;
+  font-weight: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  margin-left: 240rpx;
+}
+.p_title{
+  font-style: small;
+  font-weight: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  margin-left: 100rpx;
+  margin-top: -390rpx;
+  background-color: blue;
+  padding: 20rpx;
+}
+.principal_logo{
+    border-radius: 50%;
+    height: 150rpx;
+    width: 150rpx;
+    margin-top: -60rpx;
+    margin-left: 20rpx;
+}
+.sch_info{
+  margin-top: 30rpx;
+  margin-left: 40rpx;
+  display: inline-block;
+}
+.info{
+  font-size: small;
+  font-style: normal;
+  display: inline-block;
+}
+.page_info{
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: normal;
+  margin-top: 20rpx;
+  margin-left: 250rpx;
+  color: black;
+}

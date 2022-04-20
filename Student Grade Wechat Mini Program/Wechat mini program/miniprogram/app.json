@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/Alex/index",
+    "pages/report1",
+    "pages/Alex/report",
+    "pages/Alex/login",
+    "pages/Alex/admin",
+    "pages/Alex/school",
+    "pages/Alex/fraud",
+    "pages/Alex/schooldetail",
+    "pages/Alex/AddStudent",
+    "pages/Alex/AddTeacher",
+    "pages/Alex/AddGrades"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

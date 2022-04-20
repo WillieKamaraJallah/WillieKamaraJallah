@@ -1,0 +1,76 @@
+/* miniprogram/pages/Alex/login.wxss */
+.background{
+  height:1300rpx;
+  width: 100%;
+ background-color: lightgray;
+}
+.form_controller{
+  margin-top: 190rpx;
+  background-color: skyblue;
+  margin-left: 50rpx;
+  width: 85%;
+  height: 750rpx;
+  border-radius: 30rpx;
+  opacity: unset;
+  color: red;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+input{
+  border: 40rpx;
+   border-radius: 20rpx;
+   background-color:white;
+   color:black;
+   width: 550rpx;
+   height: 90rpx;
+   margin: 20rpx;
+   margin-top: 70rpx;
+   padding: 5rpx;
+   padding-left: 30rpx;
+ }
+ button{
+   background-color: white;
+   padding: 20rpx;
+   margin-top: 20rpx;
+   box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+ }
+ .engine{
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  text-shadow: black;
+  margin-left: 270rpx;
+  margin-top: 60rpx;
+  font-weight: bold;
+}
+.text{
+  font-size: 30rpx;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: white;
+  padding: 5rpx;
+  margin-top: 20rpx;
+  float: right;
+  margin-right: 5rpx;
+}
+.chkbox{
+  margin-top: 20rpx;
+  font-size: 30rpx;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: white;
+  padding: 5rpx;
+  margin-left: 10rpx;
+}
+image{
+  height: 70rpx;
+  width: 70rpx;
+  margin-left: 100rpx;
+  margin-top: 20rpx;
+  display: inline-block;
+  padding: 5rpx;
+  border-radius: 50%;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}

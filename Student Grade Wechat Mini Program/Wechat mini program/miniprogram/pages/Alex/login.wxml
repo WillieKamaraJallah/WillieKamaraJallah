@@ -1,0 +1,18 @@
+<!--miniprogram/pages/Alex/login.wxml-->
+<view class="background">
+      <view class="form_controller">
+           <text class="engine">LOGIN</text> 
+        <form class="login" action="#">
+             <input placeholder="Email or phone number" type="text"> </input>
+             <input placeholder="Password" type="password" name="passwd" id="psswd"></input>
+             <view style="height:20rpx"></view>
+            <button  bindtap="adminpage">LOGIN</button>
+        </form>
+        <!--<text style="color:gray; margin-top:20rpx; font-size:small; margin-left:250rpx;">or</text>-->
+          <image src="../Alex/images/gmail.png"></image>
+          <image src="../Alex/images/apple.png"></image>
+          <image src="../Alex/images/facebook.png"></image>
+        <checkbox class="chkbox">Remember Me</checkbox>
+        <a href="#"><p class="text">Forget Password? </p></a>
+     </view>
+</view>

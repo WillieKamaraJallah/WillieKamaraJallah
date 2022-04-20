@@ -1,0 +1,27 @@
+<!--miniprogram/pages/Alex/fraud.wxml-->
+<view >
+    <p class="page_title">Report Fraud</p>
+</view>
+<image src="../Alex/images/school2.JPG" class="sch_banner"></image>
+
+ <view class="booking_form">
+ <p class="form_title">Please Enter Details</p>
+   <view style="height: 20rpx;"></view>
+    <form action="#" name="complain">
+      <p>Complainer Name</p>
+        <input placeholder="Enter Full Name" type="text" name="Cname" id="Cname"></input>
+      <p>Complainer Email</p>
+        <input placeholder="username@doman.com" type="date" name="Cemail" id="Cemail"></input>
+      <p>Phone Number</p>
+        <input placeholder="+000-111-555-222" type="text" name="phone" id="phone"></input>
+      <p>Enter Student Name</p>
+        <input placeholder="Student Full Name" type="text" name="Sname" id="Sname"></input>
+      <p>Student School Name</p>
+        <input placeholder="Name of School" type="text" name="Schname" id="Schname"></input>
+      <p>Reason for the Complain</p>
+        <textarea placeholder="Type Here"></textarea>
+    </form>
+    <button>SUBMIT</button>
+  </view>
+  <view style="height: 25rpx;"></view>
+

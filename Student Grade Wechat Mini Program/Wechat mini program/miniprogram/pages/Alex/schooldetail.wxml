@@ -1,0 +1,37 @@
+<!--miniprogram/pages/Alex/schooldetail.wxml-->
+<view >
+    <p class="page_title">Seventh-day Adventist School</p>
+</view>
+<image src="../Alex/images/school2.JPG" class="img_banner"></image>
+<view style="height:10rpx;"></view>
+<view class="schl_list">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Mr. Alex CD Desoe</p>
+    <image class="principal_logo" src="../Alex/images/user_profile.png"></image>
+    <p class="p_title">Principal</p>
+</view>
+<view style="height:20rpx;"></view>
+<view style="height:10rpx"></view>
+<p class="page_info">School Record</p>
+<view class="sch_info"> 
+   <p class="info">Total Students:</p>
+        <p style="float:right; font-style:normal; font-size:small; margin-right:50rpx;"> 8240</p>
+</view>
+<view class="sch_info"> 
+   <p class="info">Total Teachers:</p>
+        <p style="float:right; font-style:normal; font-size:small; margin-right:50rpx;"> 260</p>
+</view>
+<view class="sch_info"> 
+   <p class="info">Total Faculty:</p>
+        <p style="float:right; font-style:normal; font-size:small; margin-right:50rpx;"> 30</p>
+</view>
+<view class="sch_info"> 
+   <p class="info">Average Yearly Enrollment:</p>
+        <p style="float:right; font-style:normal; font-size:small; margin-right:50rpx;"> 4140</p>
+</view>
+<view class="sch_info"> 
+   <p class="info">Total Campuses:</p>
+        <p style="float:right; font-style:normal; font-size:small; margin-right:50rpx;"> 7</p>
+</view>
+<view style="height:30rpx"></view>

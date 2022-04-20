@@ -1,0 +1,33 @@
+<!--miniprogram/pages/James/index.wxml-->
+<view class="background">
+    <view class="user_logo" bindtap="nextpage">
+        <image src="../Alex/images/user_profile.png" class="user_img" bindtap="loginpage"></image>
+    </view>
+   
+<view class="form_controller">
+ <text class="engine">Academic Record Engne</text>
+  <form class="login" action="#">
+    <input placeholder="Student Name"> </input>
+    <input placeholder="School Name"> </input>
+    <input placeholder="Student ID"> </input>
+    <view style="height:20rpx"></view>
+    <button  bindtap="nextpage">Search</button>
+  </form>
+  </view>
+<view class="menu_controller">
+    <image src="../Alex/images/home.png" class="img_controller"></image>
+    <p class="menu_title">Home</p>
+</view>
+<view class="menu_controller">
+    <image src="../Alex/images/school list.png" class="img_controller" bindtap="schoolpage"></image>
+    <p class="menu_title">Schools</p>
+</view>
+<view class="menu_controller">
+    <image src="../Alex/images/fraud.png" class="img_controller" bindtap="fraudpage"></image>
+    <p class="menu_title">Fraud</p>
+</view>
+<view class="menu_controller">
+    <image src="../Alex/images/user_profile.png" class="img_controller" bindtap="loginpage"></image>
+    <p class="menu_title">Profile</p>
+</view>
+</view>

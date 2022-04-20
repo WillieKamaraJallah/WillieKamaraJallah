@@ -1,0 +1,28 @@
+<!--miniprogram/pages/Alex/AddGrades.wxml-->
+<!--miniprogram/pages/James/booking.wxml-->
+<view class="background">
+
+<view style="height: 20rpx;"></view>
+  <p class="order_title">STUDENT RECORD</p>
+  <view class="med_img"> 
+    <image src="../Alex/images/schools.jpg"></image>
+  </view>
+  <view style="height: 10rpx;"></view>
+    <view class="booking_form">
+ <p class="form_title">Enter student Details</p>
+   <view style="height: 20rpx;"></view>
+    <form action="#" name="booking">
+      <p>Applicant Name</p>
+        <input placeholder="Enter Student Name" type="text" name="s_name" id="s_name"></input>
+      <p>Date of Birth</p>
+        <input placeholder="Enter Student ID" type="text" name="student_ID" id="student_ID"></input>
+      <p>Class</p>
+        <input placeholder="5th Grade" type="text" name="student_grade" id="student_grade"></input>
+      <p>Behaviour Comment</p>
+        <textarea placeholder="About Student Behaviour"></textarea>
+    </form>
+  </view>
+  <view class="act_btn" bindtap="nextpage">Cancel</view>
+  <view class="act_btn">Comfirm</view>
+</view>
+

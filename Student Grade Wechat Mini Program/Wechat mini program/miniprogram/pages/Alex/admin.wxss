@@ -1,0 +1,94 @@
+.profile_view{
+  height: 400rpx;
+  width: 800rpx;
+  background-color: black;
+  border-radius: 25rpx;
+}
+.background_pic{
+  height: 400rpx;
+  width: 800rpx;
+  border-radius: 15rpx;
+}
+.profile_pic{
+  height: 190rpx;
+  width: 190rpx;
+  background-color: transparent;
+  border-radius: 50%;
+  margin-left: 30rpx;
+  margin-top: -120rpx;
+}
+.user_pic{
+  height: 190rpx;
+  width: 190rpx;
+  border-radius: 50%;
+  margin-left: 2rpx;
+  margin-top: -5rpx;
+}
+.user_name{
+  margin-left: 220rpx;
+  font-size: larger;
+  font-weight: bold;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: -65rpx;
+}
+.sch_name{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: small;
+  align-items: center;
+  color: black;
+  margin-left: 150rpx;
+}
+.item_controller{
+  height: 110rpx;
+  width: 190rpx;
+  background-color: blue;
+  color: white;
+  margin-left: 30rpx;
+  display: inline-block;
+  border-radius: 20rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+  margin-top: 60rpx;
+  padding-top: 50rpx;
+}
+.item_name{
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  padding:10rpx;
+  padding-left: 10rpx;
+  display: inline-block;
+}
+.box{
+  display: inline-block;
+  margin-left: 30rpx;
+}
+.details{
+  border-radius: 20rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+  height: 300rpx;
+  width: 600rpx;
+  background-color: gray;
+  padding:10rpx;
+  color: white;
+  margin-top: 40rpx;
+  margin-left: 60rpx;
+}
+.content_detail{
+  font-size: larger;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  margin-left: 99rpx;
+  margin-top: 90rpx;
+}
+.content_number{
+  font-size: 140rpx;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  margin-left: 150rpx;
+  color: black;
+}

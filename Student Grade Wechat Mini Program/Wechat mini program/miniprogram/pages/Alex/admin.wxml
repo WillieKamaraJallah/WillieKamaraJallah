@@ -1,0 +1,40 @@
+<view class="profile_view">
+    <image src="../Alex/images/school2.JPG" class="background_pic"></image>
+</view>
+<view class="profile_pic">
+  <image src="../Alex/images/user.png" class="user_pic"></image>
+</view>
+<p class="user_name">John Jallah</p>
+    <p class="sch_name">Register - SDA High School</p>
+    <view style="height:20rpx;"></view>
+
+    <view class="box">
+    <view class="item_controller" bindtap="AddStudent">
+      <p class="item_name">Add Student</p>
+    </view>
+    <view class="item_controller" bindtap="AddGrades">
+      <p class="item_name">Add Grades</p>
+    </view>
+    <view class="item_controller" bindtap="AddTeacher">
+      <p class="item_name">Add Teacher</p>
+    </view>
+    </view>
+
+    <view class="details">
+        <p class="content_detail">Total Teachers</p>
+        <view style="height:10rpx"></view>
+        <p class="content_number">3524</p>
+    </view>
+    
+    <view class="details">
+        <p class="content_detail">Total Faculty</p>
+        <view style="height:10rpx"></view>
+        <p class="content_number">354</p>
+    </view>
+    
+    <view class="details">
+        <p class="content_detail">Total Students</p>
+        <view style="height:10rpx"></view>
+        <p class="content_number">8364</p>
+    </view>
+    <view style="height:30rpx;"></view>

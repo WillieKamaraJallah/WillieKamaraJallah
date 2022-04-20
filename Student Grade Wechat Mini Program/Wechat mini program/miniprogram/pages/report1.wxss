@@ -1,0 +1,28 @@
+/* miniprogram/pages/report1.wxss */
+
+.profile_view{
+    height: 300rpx;
+    width: 800rpx;
+    background-color: black;
+    border-radius: 25rpx;
+}
+.background_pic{
+    height: 300rpx;
+    width: 800rpx;
+    border-radius: 25rpx;
+}
+.profile_pic{
+    height: 90rpx;
+    width: 90rpx;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 20rpx;
+    margin-top: 90rpx;
+}
+.user_pic{
+    height: 90rpx;
+    width: 90rpx;
+    border-radius: 50%;
+    margin-left: 20rpx;
+    margin-top: 90rpx;
+}

@@ -1,0 +1,92 @@
+/* miniprogram/pages/Alex/index.wxss */
+.background{
+  height:1300rpx;
+  width: 100%;
+ background-color: lightgray;
+}
+.engine{
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  text-shadow: black;
+  margin-left: 90rpx;
+  margin-top: 15rpx;
+  font-weight: bold;
+}
+.user_logo{
+  height: 70rpx;
+  width: 70rpx;
+  float: right;
+  margin-right: 30rpx;
+  margin-top: 15rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.user_img{
+  height: 70rpx;
+  width: 70rpx;
+}
+P{
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  color:black;
+  text-decoration: none;
+  text-shadow: black;
+  margin-right: 45rpx;
+  margin-top: 5rpx;
+  font-weight: bold;
+}
+.form_controller{
+  margin-top: 190rpx;
+  background-color: skyblue;
+  margin-left: 50rpx;
+  width: 85%;
+  height: 750rpx;
+  border-radius: 30rpx;
+  opacity: unset;
+  color: red;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+input{
+  border: 40rpx;
+   border-radius: 20rpx;
+   background-color:white;
+   color:black;
+   width: 550rpx;
+   height: 90rpx;
+   margin: 20rpx;
+   margin-top: 70rpx;
+   padding: 5rpx;
+   padding-left: 30rpx;
+ }
+ button{
+   background-color: white;
+   padding: 20rpx;
+   margin-top: 20rpx;
+   box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+ }
+ .menu_controller{
+   margin: 40rpx;
+   height: 70rpx;
+   width: 70rpx;
+   display: inline-block;
+  margin-right: 80rpx;
+  margin-top: 90rpx;
+ }
+ .img_controller{
+  height: 70rpx;
+  width: 70rpx;
+  margin-right: 80rpx;
+  margin-top: 1rpx;
+  display: inline-block;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+ }
+ .menu_title{
+   color: black;
+   margin-left: 5rpx;
+   font-size: smaller;
+   font-style: normal;
+ }

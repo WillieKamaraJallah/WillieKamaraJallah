@@ -1,0 +1,73 @@
+<!--miniprogram/pages/Alex/school.wxml-->
+<view >
+    <p class="page_title">School List</p>
+</view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>
+<view style="height: 5rpx;"></view>
+<view class="schl_list" bindtap="schooldetail">
+<p class="sch_name">Seventh-day Adventist School</p>
+<view style="height:10rpx;"></view>
+<p class="sch_number">Total Student: 8240</p>
+    <image class="schl_logo" src="../Alex/images/school2.JPG"></image>
+</view>

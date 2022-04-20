@@ -1,0 +1,146 @@
+<!--miniprogram/pages/Alex/report.wxml-->
+<view class="profile_view">
+    <image src="../Alex/images/school2.JPG" class="background_pic"></image>
+</view>
+<view class="profile_pic">
+  <image src="../Alex/images/user.png" class="user_pic"></image>
+</view>
+    <p class="user_name">John Snow</p>
+    <p class="sch_name">Seventh-day Adventist High School</p>
+    <p class="sch_class">11 TH GRADE</p>
+    <p class="status">PROMOTED</p>
+
+<view style="height:20rpx;"></view>
+
+<view class="about_stu">
+    <p class="about_header">About John</p>
+    <text style="font-size:20rpx;">
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+    Lorem Ipsum has been the industry's standard dummy text.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has 
+    been the industry's standard dummy text
+    </text>
+</view>
+<view style="height:70rpx;"></view>
+
+<p class="about_header">Student Transcript</p>
+    <view class="table-responsive" id="table_controller"> 
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Terms</th>
+                <th>Math</th>
+                <th>English</th>
+                <th>Science</th>
+                <th>History</th>
+                <th>Literature</th>
+                <th>Geography</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding:50rpx;">1st Period</td>
+                <td>85</td>
+                <td style="padding:50rpx;">86</td>
+                <td style="color: red;">60</td>
+                <td style="padding:70rpx;">86</td>
+                <td style="padding:10rpx;">74</td>
+                <td style="padding:70rpx;">92</td>
+            </tr>
+            <tr>
+                <td style="padding:50rpx;">2nd Period</td>
+                <td style="color: red;">64</td>
+                <td style="padding:50rpx;">86</td>
+                <td>85</td>
+                <td style="padding:70rpx;">72</td>
+                <td style="padding:10rpx;">94</td>
+                <td style="padding:70rpx; color:red;">60</td>
+            </tr>
+            <tr>
+                <td style="padding:50rpx;">3rd Period</td>
+                <td>85</td>
+                <td style="padding:50rpx;">80</td>
+                <td>85</td>
+                <td style="padding:70rpx;">94</td>
+                <td style="padding:10rpx; color:red;">62</td>
+                <td style="padding:70rpx;">79</td>
+            </tr>
+            <tr>
+                <td style="padding:50rpx;">1st Exam</td>
+                <td>79</td>
+                <td style="padding:50rpx;">76</td>
+                <td>80</td>
+                <td style="padding:75rpx;">82</td>
+                <td style="padding:10rpx; color:red;">64</td>
+                <td style="padding:70rpx;">90</td>
+            </tr>
+            <tr>
+                <td style="padding:10rpx;">1st Semester</td>
+                <td>87</td>
+                <td style="padding:50rpx;">88</td>
+                <td>85</td>
+                <td style="padding:70rpx;">79</td>
+                <td style="padding:30rpx;">94</td>
+                <td style="padding:55rpx;">89</td>
+            </tr>
+            <tr>
+                <td style="padding:40rpx;">4th Period</td>
+                <td style="color: red;">64</td>
+                <td style="padding:50rpx;">86</td>
+                <td>95</td>
+                <td style="padding:70rpx;">72</td>
+                <td style="padding:20rpx;">94</td>
+                <td style="padding:70rpx;">80</td>
+            </tr>
+            <tr>
+                <td style="padding:40rpx;">5th Period</td>
+                <td>84</td>
+                <td style="padding:50rpx;">96</td>
+                <td>75</td>
+                <td style="padding:70rpx;">72</td>
+                <td style="padding:20rpx; color:red;">60</td>
+                <td style="padding:70rpx;">81</td>
+            </tr>
+            <tr>
+                <td style="padding:40rpx;">6th Period</td>
+                <td>74</td>
+                <td style="padding:50rpx;">86</td>
+                <td>70</td>
+                <td style="padding:70rpx;">72</td>
+                <td style="padding:20rpx;">94</td>
+                <td style="padding:70rpx; color:red;">69</td>
+            </tr>
+            <tr>
+                <td style="padding:50rpx;">1st Exam</td>
+                <td>89</td>
+                <td style="padding:50rpx;">81</td>
+                <td>80</td>
+                <td style="padding:70rpx;">82</td>
+                <td style="padding:20rpx; color:red;">68</td>
+                <td style="padding:70rpx;">80</td>
+            </tr>
+            <tr>
+                <td style="padding:10rpx;">2nd Semester</td>
+                <td>86</td>
+                <td style="padding:50rpx;">80</td>
+                <td>70</td>
+                <td style="padding:70rpx;">75</td>
+                <td style="padding:20rpx;">94</td>
+                <td style="padding:70rpx;">79</td>
+            </tr>
+            <tr>
+                <td>Average</td>
+                <td>85</td>
+                <td>76</td>
+                <td>80</td>
+                <td>79</td>
+                <td>85</td>
+                <td>76</td>
+            </tr>                                                      
+        </tbody>
+    </table>
+</view>
+
+<button>DOWNLOAD</button>
+<view style="height:20rpx;"></view>
+
+

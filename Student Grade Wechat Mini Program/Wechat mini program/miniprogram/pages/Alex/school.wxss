@@ -1,0 +1,42 @@
+/* miniprogram/pages/Alex/school.wxss */
+.page_title{
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: normal;
+  margin-top: 20rpx;
+  margin-left: 250rpx;
+  color: black;
+}
+.schl_list{
+  height: 250rpx;
+  width: 680rpx;
+  background-color: lightgray;
+  display: inline-block;
+  border-radius: 20rpx;
+  border-style: solid;
+  border-color: lightgray;
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+  box-shadow: 0rpx 8rpx 16rpx rgb(2, 3, 14);
+}
+.sch_name{
+  font-style: large;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  margin-left: 60rpx;
+}
+.sch_number{
+  font-style: small;
+  font-weight: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  margin-left: 270rpx;
+}
+image{
+  border-radius: 50%;
+  height: 180rpx;
+  width: 180rpx;
+  margin-top: -48rpx;
+  margin-left: 20rpx;
+}
